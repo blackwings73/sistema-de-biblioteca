@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+ENV.bak/
+*.egg-info/
+*.egg
+*.log
+
+# SQLite database
+*.db
+
+# Tkinter images (se houver)
+*.jpg
+*.png
+
+# Backup files
+*.bak
+*.swp
+
+# IDE specific files
+.vscode/
+.idea/
